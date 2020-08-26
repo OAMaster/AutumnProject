@@ -1,4 +1,4 @@
 <?
-abcd
-1234
+admin_id:comexpert
+123$567*
 ?>
