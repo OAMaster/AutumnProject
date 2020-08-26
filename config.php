@@ -1,4 +1,4 @@
 <?
-admin_id:comexpert
+admin_atozlab
 123$567*
 ?>
