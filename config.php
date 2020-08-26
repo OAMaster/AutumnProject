@@ -1,4 +1,4 @@
 <?
-admin_atozlab
+atozlab
 123$567*
 ?>
