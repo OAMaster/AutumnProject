@@ -1,4 +1,4 @@
 <?
 admin_atozlab
-pw1234
+123$567*
 ?>
