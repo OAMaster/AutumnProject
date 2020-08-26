@@ -1,4 +1,4 @@
 <?
-abcd
-1234
+admin_atozlab
+pw1234
 ?>
